@@ -20,7 +20,7 @@ Leonard needs your help!
 <b>User Stories</b>
 
 <ul>
-<li>As Leonard, I can view headlines from ESPN, so that I can keep up to date on the latest sports news.
+<li>As Leonard, I can view headlines from <a href="http://developer.espn.com/" target="_blank">ESPN</a>, so that I can keep up to date on the latest sports news.
 <ul><li>Acceptance Criteria: Information is refreshed every time the app is launched.</li></ul></li>
 <li>As Leonard, I can select a favorite team, so that I can just read the headlines for my favorite team and not get overloaded with information about other teams.
 <ul><li>Acceptance Criteria: Favorite team is saved and persists even when the app is closed.</li></ul></li>
