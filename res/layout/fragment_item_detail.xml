@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+		<Button
+		    android:id="@+id/item_detail_URL"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/button_item_detail_URL_text"
+		    android:gravity="center" />
+		<TextView 
+		    android:id="@+id/item_detail"
+		    style="?android:attr/textAppearanceLarge"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:layout_below="@+id/item_detail_URL"
+		    android:padding="16dp"
+		    android:textIsSelectable="true"
+		    tools:context=".ItemDetailFragment" />
+	
+	
+	</RelativeLayout>
+</ScrollView>
