@@ -3,7 +3,7 @@ Help Leonard
 
 Please read the User Stories and the Guidelines below before you begin.
 
-Clone this repository and create a new xcode project. When you are finished with your project, create a pull request so that we can review your code.
+Clone this repository and create a new Android project. When you are finished with your project, create a pull request so that we can review your code.
 
 If you have any questions or need help, email tkaram@applicoinc.com.
 
